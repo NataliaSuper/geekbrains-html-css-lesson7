@@ -473,6 +473,7 @@ hr {
 	font-weight: 300;
 
 	color: #1F3F68;
+	opacity: 0.6;
 }
 
 .contacts-phone li:before {
@@ -518,6 +519,7 @@ li.contact-mail:before {
 
 .contacts-link {
 	list-style-type: none;
+	opacity: 0.6;
 }
 
 a.contact-form-link {
